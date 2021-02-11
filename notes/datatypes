@@ -5,7 +5,11 @@ Datatypes
         char - 'A', 'B'
         boolean: True, False
     List:
-        group of variables
+        group of elements
+        can be modified
+    tuples:
+        group of elements
+        cannot be modified (immutable)
 
 int - 2 bytes (32bit), 4 bytes (64 bits)
 float - 8 bytes

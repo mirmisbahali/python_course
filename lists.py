@@ -16,6 +16,7 @@ for i in range(len(student)):
 
 '''
 
+'''
 students = ['Saffan', 'Misbah', 'Wajid', 'Adnan']
 print("Before deleteing", students)
 students.pop(2)
@@ -23,4 +24,15 @@ print("After deleting", students)
 
 students.append('Owais')
 print("After adding", students)
+'''
+
+'''
+students = ['Saffan', 'Misbah', 'Wajid', 'Adnan']
+
+for i in students:
+    print(i)
+'''
+
+
+
 
